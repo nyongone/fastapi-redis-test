@@ -1,0 +1,5 @@
+/venv
+/apis/__pycache__
+/core/__pycache__
+/routes/__pycache__
+/__pycache__
